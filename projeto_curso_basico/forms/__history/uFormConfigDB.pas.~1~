@@ -1,0 +1,24 @@
+unit uFormConfigDB;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs;
+
+type
+  TFormConfigDB = class(TForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FormConfigDB: TFormConfigDB;
+
+implementation
+
+{$R *.dfm}
+
+end.

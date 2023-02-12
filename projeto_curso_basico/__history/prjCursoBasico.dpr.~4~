@@ -1,0 +1,17 @@
+program prjCursoBasico;
+
+uses
+  Vcl.Forms,
+  uFormMain in 'forms\uFormMain.pas' {FormMain},
+  uDmDados in 'forms\uDmDados.pas' {DmDados: TDataModule},
+  uBiblioteca in 'classes\uBiblioteca.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFormMain, FormMain);
+  Application.CreateForm(TDmDados, DmDados);
+  Application.Run;
+end.

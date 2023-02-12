@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/02/12 11:12:56.734,=D:\Curso Delphy\curso_dephy\Unit1.pas</Transaction>
+    <Transaction>2023/02/12 11:14:06.006,D:\Curso Delphy\curso_dephy\aula_4\FormPrincipal.dfm=D:\Curso Delphy\curso_dephy\Unit1.dfm</Transaction>
+    <Transaction>2023/02/12 11:14:06.006,D:\Curso Delphy\curso_dephy\aula_4\FormPrincipal.pas=D:\Curso Delphy\curso_dephy\Unit1.pas</Transaction>
+    <Transaction>2023/02/12 11:14:22.352,D:\Curso Delphy\curso_dephy\aula_4\Aula4.dproj=D:\Curso Delphy\curso_dephy\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
