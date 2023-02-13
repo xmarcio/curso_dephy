@@ -9,7 +9,6 @@ uses
 
 type
   TFormConfigDB = class(TForm)
-    Image1: TImage;
     edtLocal: TEdit;
     Label1: TLabel;
     Button1: TButton;
