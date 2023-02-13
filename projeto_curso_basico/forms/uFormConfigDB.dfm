@@ -3,8 +3,8 @@ object FormConfigDB: TFormConfigDB
   Top = 0
   BorderStyle = bsDialog
   Caption = 'Config_Bando_de_Dados'
-  ClientHeight = 309
-  ClientWidth = 646
+  ClientHeight = 312
+  ClientWidth = 663
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -18,8 +18,8 @@ object FormConfigDB: TFormConfigDB
   object Image1: TImage
     Left = 0
     Top = 0
-    Width = 329
-    Height = 309
+    Width = 289
+    Height = 312
     Align = alLeft
     Center = True
     Picture.Data = {
@@ -1093,6 +1093,7 @@ object FormConfigDB: TFormConfigDB
       000000EA1002000000401D4200000000A843FF1F96692948C726894400000000
       49454E44AE426082}
     Stretch = True
+    ExplicitHeight = 273
   end
   object Label1: TLabel
     Left = 344
@@ -1115,6 +1116,7 @@ object FormConfigDB: TFormConfigDB
     Height = 25
     Caption = 'Configurar'
     TabOrder = 1
+    OnClick = Button1Click
   end
   object opnPastas: TOpenDialog
     DefaultExt = 'fdb'

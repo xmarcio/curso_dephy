@@ -83,8 +83,8 @@
         <DCC_RemoteDebug>false</DCC_RemoteDebug>
         <AppEnableRuntimeThemes>true</AppEnableRuntimeThemes>
         <AppDPIAwarenessMode>PerMonitorV2</AppDPIAwarenessMode>
-        <DCC_ExeOutput>D:\Curso Delphy\curso_dephy\projeto_curso_basico\exe\</DCC_ExeOutput>
-        <DCC_DcuOutput>D:\Curso Delphy\curso_dephy\projeto_curso_basico\dcu\</DCC_DcuOutput>
+        <DCC_ExeOutput>C:\Users\Márcio\Documents\Embarcadero\Studio\curso_dephy\projeto_curso_basico\</DCC_ExeOutput>
+        <DCC_DcuOutput>C:\Users\Márcio\Documents\Embarcadero\Studio\curso_dephy\projeto_curso_basico\</DCC_DcuOutput>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_Locale>1033</VerInfo_Locale>
         <Icon_MainIcon>prjCursoBasico_Icon.ico</Icon_MainIcon>
