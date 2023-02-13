@@ -1,15 +1,17 @@
 unit uBiblioteca;
 
 interface
+
 uses IniFiles, System.SysUtils, Vcl.Forms;
 
-  procedure SetValorIni(pLocal, pSessao, pSubSessao, pValor: string);
-  function GetValorIni(pLocal, pSessao, pSubSessao: string): string;
+procedure SetValorIni(pLocal, pSessao, pSubSessao, pValor: string);
+function GetValorIni(pLocal, pSessao, pSubSessao: string): string;
 
 implementation
 
 procedure SetValorIni(pLocal, pSessao, pSubSessao: string; pValor: string);
-var vArquivo: TIniFile;
+var
+  vArquivo: TIniFile;
 begin
   vArquivo := TIniFile.Create(pLocal);
 
@@ -19,7 +21,8 @@ begin
 end;
 
 function GetValorIni(pLocal, pSessao, pSubSessao: string): string;
-var vArquivo: TIniFile;
+var
+  vArquivo: TIniFile;
 begin
   vArquivo := TIniFile.Create(pLocal);
 
