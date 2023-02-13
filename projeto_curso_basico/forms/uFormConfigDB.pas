@@ -48,12 +48,12 @@ begin
     SetValorIni(vFileName, 'CONFIGURACAO', 'LOCAL_DB', edtLocal.Text);
     ShowMessage('Pronto.');
     Self.Close;
+    //Application.Terminate;
   end;
 end;
-
-procedure TFormConfigDB.FormClose(Sender: TObject; var Action: TCloseAction);
-begin
-  Application.Terminate;
-end;
+  procedure TFormConfigDB.FormClose(Sender: TObject; var Action: TCloseAction);
+  begin
+    Application.Terminate;
+  end;
 
 end.
