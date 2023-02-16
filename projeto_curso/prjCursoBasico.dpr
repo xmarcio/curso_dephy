@@ -1,0 +1,28 @@
+program prjCursoBasico;
+
+uses
+  Vcl.Forms,
+  uFormMain in 'forms\uFormMain.pas' {FormMain},
+  uDmDados in 'forms\uDmDados.pas' {DmDados: TDataModule},
+  uBiblioteca in 'classes\uBiblioteca.pas',
+  uFormConfigBanco in 'forms\uFormConfigBanco.pas' {FormConfigBanco},
+  uFormCadastroPai in 'forms\uFormCadastroPai.pas' {FormCadastroPai},
+  uFormCadastroCliente in 'forms\uFormCadastroCliente.pas' {FormCadastroCliente},
+  uFormCadastroEstado in 'forms\uFormCadastroEstado.pas' {FormCadastroEstado},
+  uFormCadastroCidade in 'forms\uFormCadastroCidade.pas' {FormCadastroCidade},
+  uLookup in 'shared\uLookup.pas' {Lookup: TDataModule};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFormMain, FormMain);
+  Application.CreateForm(TFormConfigBanco, FormConfigBanco);
+  Application.CreateForm(TDmDados, DmDados);
+  Application.CreateForm(TLookup, Lookup);
+  Application.CreateForm(TFormCadastroCliente, FormCadastroCliente);
+  Application.CreateForm(TFormCadastroEstado, FormCadastroEstado);
+  Application.CreateForm(TFormCadastroCidade, FormCadastroCidade);
+  Application.Run;
+end.

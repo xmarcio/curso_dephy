@@ -1,0 +1,22 @@
+program prjCursoBasico;
+
+uses
+  Vcl.Forms,
+  uFormMain in 'forms\uFormMain.pas' {FormMain},
+  uDmDados in 'forms\uDmDados.pas' {DmDados: TDataModule},
+  uBiblioteca in 'classes\uBiblioteca.pas',
+  uFormConfigBanco in 'forms\uFormConfigBanco.pas' {FormConfigBanco},
+  uFormCadastroPai in 'forms\uFormCadastroPai.pas' {FormCadastroPai},
+  uFormCadastroCliente in 'forms\uFormCadastroCliente.pas' {FormCadastroPai1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFormMain, FormMain);
+  Application.CreateForm(TFormConfigBanco, FormConfigBanco);
+  Application.CreateForm(TDmDados, DmDados);
+  Application.CreateForm(TFormCadastroPai1, FormCadastroPai1);
+  Application.Run;
+end.

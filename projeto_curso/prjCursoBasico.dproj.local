@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/14 19:36:20.000.698,=D:\Curso Delphy\curso_dephy\projeto_curso_basico\Unit1.pas</Transaction>
+    <Transaction>2023/02/14 19:38:22.000.108,D:\Curso Delphy\curso_dephy\projeto_curso_basico\Unit1.dfm=D:\Curso Delphy\curso_dephy\projeto_curso\forms\uFormMain.dfm</Transaction>
+    <Transaction>2023/02/14 19:38:22.000.108,D:\Curso Delphy\curso_dephy\projeto_curso_basico\Unit1.pas=D:\Curso Delphy\curso_dephy\projeto_curso\forms\uFormMain.pas</Transaction>
+    <Transaction>2023/02/14 19:38:58.000.221,D:\Curso Delphy\curso_dephy\projeto_curso_basico\Project1.dproj=D:\Curso Delphy\curso_dephy\projeto_curso\prjCursoBasico.dproj</Transaction>
+    <Transaction>2023/02/14 19:45:02.000.474,=D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas</Transaction>
+    <Transaction>2023/02/14 19:47:57.000.673,D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas=D:\Curso Delphy\curso_dephy\projeto_curso\forms\uDmDados.pas</Transaction>
+    <Transaction>2023/02/14 19:47:57.000.673,D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.dfm=D:\Curso Delphy\curso_dephy\projeto_curso\forms\uDmDados.dfm</Transaction>
+    <Transaction>2023/02/14 19:56:07.000.180,=D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas</Transaction>
+    <Transaction>2023/02/14 19:56:46.000.490,D:\Curso Delphy\curso_dephy\projeto_curso\classes\uBiblioteca.pas=D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas</Transaction>
+    <Transaction>2023/02/14 20:22:40.000.115,=D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas</Transaction>
+    <Transaction>2023/02/14 20:23:27.000.135,=D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas</Transaction>
+    <Transaction>2023/02/14 20:24:21.000.991,D:\Curso Delphy\curso_dephy\projeto_curso\forms\uFormConfigBanco.dfm=D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.dfm</Transaction>
+    <Transaction>2023/02/14 20:24:21.000.991,D:\Curso Delphy\curso_dephy\projeto_curso\forms\uFormConfigBanco.pas=D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas</Transaction>
+    <Transaction>2023/02/15 18:18:54.000.298,=D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas</Transaction>
+    <Transaction>2023/02/15 18:21:00.000.851,D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.dfm=D:\Curso Delphy\curso_dephy\projeto_curso\forms\uFormCadastroPai.dfm</Transaction>
+    <Transaction>2023/02/15 18:21:00.000.851,D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas=D:\Curso Delphy\curso_dephy\projeto_curso\forms\uFormCadastroPai.pas</Transaction>
+    <Transaction>2023/02/15 18:54:54.000.972,=D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas</Transaction>
+    <Transaction>2023/02/15 18:55:34.000.785,D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.dfm=D:\Curso Delphy\curso_dephy\projeto_curso\forms\uFormCadastroCliente.dfm</Transaction>
+    <Transaction>2023/02/15 18:55:34.000.785,D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas=D:\Curso Delphy\curso_dephy\projeto_curso\forms\uFormCadastroCliente.pas</Transaction>
+    <Transaction>2023/02/15 19:50:34.000.208,=D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas</Transaction>
+    <Transaction>2023/02/15 19:53:40.000.348,=D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas</Transaction>
+    <Transaction>2023/02/15 19:54:11.000.220,D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas=D:\Curso Delphy\curso_dephy\projeto_curso\forms\uFormCadastroEstado.pas</Transaction>
+    <Transaction>2023/02/15 19:54:11.000.220,D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.dfm=D:\Curso Delphy\curso_dephy\projeto_curso\forms\uFormCadastroEstado.dfm</Transaction>
+    <Transaction>2023/02/15 20:10:00.000.107,=D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas</Transaction>
+    <Transaction>2023/02/15 20:11:35.000.372,D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas=D:\Curso Delphy\curso_dephy\projeto_curso\forms\uCadastroCidade.pas</Transaction>
+    <Transaction>2023/02/15 20:11:35.000.372,D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.dfm=D:\Curso Delphy\curso_dephy\projeto_curso\forms\uCadastroCidade.dfm</Transaction>
+    <Transaction>2023/02/15 20:12:42.000.691,D:\Curso Delphy\curso_dephy\projeto_curso\forms\uCadastroCidade.dfm=D:\Curso Delphy\curso_dephy\projeto_curso\forms\uFormCadastroCidade.dfm</Transaction>
+    <Transaction>2023/02/15 20:12:42.000.691,D:\Curso Delphy\curso_dephy\projeto_curso\forms\uCadastroCidade.pas=D:\Curso Delphy\curso_dephy\projeto_curso\forms\uFormCadastroCidade.pas</Transaction>
+    <Transaction>2023/02/16 19:17:01.000.126,=D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas</Transaction>
+    <Transaction>2023/02/16 19:17:53.000.000,D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.dfm=D:\Curso Delphy\curso_dephy\projeto_curso\shared\uLookup.dfm</Transaction>
+    <Transaction>2023/02/16 19:17:53.000.000,D:\Curso Delphy\curso_dephy\projeto_curso\Unit1.pas=D:\Curso Delphy\curso_dephy\projeto_curso\shared\uLookup.pas</Transaction>
+  </Transactions>
+</BorlandProject>

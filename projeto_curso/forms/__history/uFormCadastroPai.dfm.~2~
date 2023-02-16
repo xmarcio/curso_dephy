@@ -1,0 +1,66 @@
+object FormCadastroPai: TFormCadastroPai
+  Left = 0
+  Top = 0
+  BorderStyle = bsSingle
+  Caption = 'FormCadastroPai'
+  ClientHeight = 560
+  ClientWidth = 1061
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pnCabecalho: TPanel
+    Left = 0
+    Top = 0
+    Width = 1061
+    Height = 57
+    Align = alTop
+    TabOrder = 0
+    object BitBtn1: TBitBtn
+      Left = 0
+      Top = 0
+      Width = 121
+      Height = 57
+      Caption = 'Novo'
+      TabOrder = 0
+    end
+    object BitBtn2: TBitBtn
+      Left = 127
+      Top = 0
+      Width = 121
+      Height = 57
+      Caption = 'Gravar'
+      TabOrder = 1
+    end
+    object BitBtn3: TBitBtn
+      Left = 254
+      Top = 0
+      Width = 121
+      Height = 57
+      Caption = 'Cancelar'
+      TabOrder = 2
+    end
+    object BitBtn4: TBitBtn
+      Left = 381
+      Top = 0
+      Width = 121
+      Height = 57
+      Caption = 'Excluir'
+      TabOrder = 3
+    end
+    object BitBtn5: TBitBtn
+      Left = 940
+      Top = 0
+      Width = 121
+      Height = 57
+      Caption = 'Sair'
+      TabOrder = 4
+    end
+  end
+end

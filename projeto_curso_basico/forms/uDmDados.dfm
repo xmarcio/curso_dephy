@@ -5,15 +5,14 @@ object DmDados: TDmDados
   Width = 560
   object FDConnection: TFDConnection
     Params.Strings = (
-      
-        'Database=C:\Users\M'#225'rcio\Documents\Embarcadero\Studio\curso_deph' +
-        'y\projeto_curso_basico\banco_de_dados\DADOS.FDB'
       'User_Name=SYSDBA'
       'Password=masterkey'
-      'Protocol=TCPIP'
       'Server=localhost'
       'Port=3050'
       'CharacterSet=UTF8'
+      
+        'Database=D:\Curso Delphy\curso_dephy\projeto_curso_basico\banco_' +
+        'de_dados\DADOS.FDB'
       'DriverID=FB')
     LoginPrompt = False
     Left = 256
